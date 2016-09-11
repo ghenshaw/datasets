@@ -1,0 +1,123 @@
+,country,unemployment_rate,gdp_per_cap,gov_type,population,dem_rating
+0,Albania,19.3,11305,Republic,"2,886,026",5.91
+1,Algeria,11.2,14687,Republic,"40,400,000",3.95
+2,Armenia,18.5,8070,Republic,"2,995,100",4.0
+3,Australia,5.8,45514,Constitutional monarchy,"24,184,100",9.01
+4,Austria,9.1,47824,Republic,"8,741,753",8.54
+5,Azerbaijan,5.3,17740,Republic,"9,755,500",2.71
+6,Bahrain,4.1,46946,Constitutional monarchy,"1,404,900",2.79
+7,Bangladesh,4.9,3123,Republic,"161,058,000",5.73
+8,Belarus,0.7,17661,Republic,"9,500,000",3.62
+9,Belgium,8.5,43992,Constitutional monarchy,"11,323,925",7.93
+10,Bhutan,3.2,7816,Constitutional monarchy,"777,890",4.93
+11,Bolivia,7.4,6630,Republic,"10,985,059",5.75
+12,Bosnia and Herzegovina,35.0,10427,Republic,"3,531,159",4.83
+13,Botswana,17.8,15807,Republic,"2,230,905",7.87
+14,Brazil,10.9,15359,Republic,"206,634,000",6.96
+15,Bulgaria,9.9,17512,Republic,"7,153,784",7.14
+16,Cambodia,0.5,3263,Constitutional monarchy,"15,626,444",4.27
+17,Cameroon,4.4,2972,Republic,"22,709,892",3.66
+18,Canada,6.9,44310,Constitutional monarchy,"36,522,300",9.08
+19,Cape Verde,15.8,6520,Republic,"531,239",7.81
+20,Central African Republic,8.0,594,Republic,"4,998,000",1.57
+21,Chad,22.6,2182,Republic,"14,497,000",1.5
+22,Chile,5.9,22316,Republic,"18,191,900",7.84
+23,Colombia,8.9,13801,Republic,"48,830,300",6.62
+24,Comoros,20.0,1429,Republic,"806,153",3.71
+25,Costa Rica,9.7,15377,Republic,"4,890,379",7.96
+26,Croatia,18.2,21881,Republic,"4,190,669",6.93
+27,Cuba,3.3,20649,Republic,"11,239,004",3.52
+28,Czech Republic,5.2,32167,Republic,"10,558,524",7.94
+29,Denmark,5.8,46635,Constitutional monarchy,"5,724,456",9.11
+30,Djibouti,60.0,3270,Republic,"900,000",2.9
+31,Dominican Republic,14.4,14212,Republic,"10,075,045",6.67
+32,Ecuador,4.8,11388,Republic,"16,609,177",5.87
+33,Egypt,8.1,10891,Republic,"91,557,600",3.18
+34,El Salvador,6.1,8351,Republic,"6,520,675",6.64
+35,Equatorial Guinea,22.3,30041,Republic,"1,222,442",1.77
+36,Estonia,6.3,28095,Republic,"1,315,944",7.85
+37,Fiji,8.6,8792,Republic,"867,000",5.69
+38,Finland,9.1,40601,Republic,"5,495,830",9.03
+39,Gabon,21.0,20010,Republic,"1,802,278",3.76
+40,Germany,4.5,47268,Republic,"82,175,700",8.64
+41,Ghana,3.6,4082,Republic,"27,670,174",6.86
+42,Greece,24.1,26680,Republic,"10,858,018",7.45
+43,Guatemala,4.1,7454,Republic,"16,176,133",5.92
+44,Guyana,9.0,6878,Republic,"746,900",6.05
+45,Honduras,4.3,4909,Republic,"8,721,014",5.84
+46,Hungary,6.0,25582,Republic,"9,823,000",6.84
+47,Iceland,3.2,46547,Republic,"336,060",9.58
+48,India,3.6,6020,Republic,"1,330,820,000",7.74
+49,Indonesia,5.7,11035,Republic,"260,581,000",7.03
+50,Iran,11.212,17303,Republic,"79,524,500",2.16
+51,Iraq,16.0,14895,Republic,"37,883,543",4.08
+52,Ireland,7.8,54654,Republic,"4,757,976",8.85
+53,Israel,4.7,35431,Republic,"8,580,240",7.77
+54,Italy,11.4,35897,Republic,"60,665,551",7.98
+55,Jamaica,14.0,8878,Constitutional monarchy,"2,723,246",7.39
+56,Japan,3.2,37322,Constitutional monarchy,"127,000,000",7.96
+57,Jordan,11.1,10880,Constitutional monarchy,"9,659,510",3.86
+58,Kazakhstan,6.1,25877,Republic,"17,753,200",3.06
+59,Kenya,42.0,2954,Republic,"47,251,000",5.33
+60,Kuwait,3.0,71312,Constitutional monarchy,"4,183,658",3.85
+61,Kyrgyzstan,8.0,3322,Republic,"6,047,800",5.33
+62,Laos,1.4,5321,Republic,"6,492,400",2.21
+63,Latvia,9.8,24286,Republic,"1,958,800",7.37
+64,Lebanon,10.0,13938,Republic,"5,988,000",4.86
+65,Lesotho,42.7,2638,Constitutional monarchy,"1,916,000",6.59
+66,Libya,13.0,14154,n/a,"6,385,000",2.25
+67,Lithuania,9.2,27730,Republic,"2,866,935",7.54
+68,Luxembourg,6.5,101926,Constitutional monarchy,"576,200",8.88
+69,Macedonia,24.0,13908,Republic,"2,071,278",6.02
+70,Malaysia,3.1,26891,Constitutional monarchy,"31,752,000",6.43
+71,Mali,30.0,1599,Republic,"18,341,000",5.7
+72,Mauritania,31.0,3912,Republic,"3,718,678",3.96
+73,Mauritius,7.9,19481,Republic,"1,262,879",8.28
+74,Mexico,4.9,17277,Republic,"128,632,000",6.55
+75,Mongolia,7.7,12189,Republic,"3,104,125",6.62
+76,Montenegro,18.3,15486,Republic,"621,810",6.01
+77,Mozambique,60.0,1129,Republic,"26,423,700",4.6
+78,Namibia,28.1,9956,Republic,"2,324,388",6.31
+79,Netherlands,6.4,48459,Constitutional monarchy,"17,047,800",8.92
+80,New Zealand,5.3,36982,Constitutional monarchy,"4,713,600",9.26
+81,Nicaragua,6.0,4918,Republic,"6,262,703",5.26
+82,Nigeria,6.4,5911,Republic,"186,988,000",4.62
+83,Norway,4.6,61472,Constitutional monarchy,"5,236,826",9.93
+84,Pakistan,8.5,4811,Republic,"194,214,000",4.4
+85,Panama,5.6,22192,Republic,"3,814,672",7.19
+86,Papua New Guinea,1.9,2855,Constitutional monarchy,"8,083,700",6.03
+87,Paraguay,5.5,8911,Republic,"6,854,536",6.33
+88,Peru,6.1,12402,Republic,"31,488,700",6.58
+89,Philippines,5.6,6969,Republic,"102,991,000",6.84
+90,Poland,9.5,26135,Republic,"38,437,239",7.09
+91,Portugal,12.4,29214,Republic,"10,341,330",7.79
+92,Romania,6.4,21403,Republic,"19,760,000",6.68
+93,Saudi Arabia,11.5,53430,Absolute monarchy,"31,015,999",1.93
+94,Senegal,48.0,2333,Republic,"14,799,859",6.08
+95,Singapore,1.9,85209,Republic,"5,535,000",6.14
+96,Slovakia,9.9,28877,Republic,"5,426,252",7.29
+97,Slovenia,12.6,31122,Republic,"2,063,371",7.57
+98,South Africa,26.7,13165,Republic,"55,653,654",7.56
+99,Spain,19.6,34527,Constitutional monarchy,"46,438,422",8.3
+100,Sri Lanka,4.2,11739,Republic,"20,966,000",6.42
+101,Sudan,13.6,4069,Republic,"41,176,000",2.37
+102,Suriname,8.9,16970,Republic,"541,638",6.77
+103,Swaziland,40.6,8292,Absolute monarchy,"1,132,657",3.09
+104,Sweden,7.7,46420,Constitutional monarchy,"9,920,881",9.45
+105,Tajikistan,2.4,2691,Republic,"8,551,000",1.95
+106,Thailand,0.9,16306,n/a,"65,729,098",5.09
+107,Trinidad and Tobago,3.7,32597,Republic,"1,349,667",7.1
+108,Tunisia,15.2,11397,Republic,"11,154,400",6.72
+109,Turkey,11.1,19618,Republic,"78,742,000",5.12
+110,Turkmenistan,3.5,16499,Republic,"4,751,120",1.83
+111,United Arab Emirates,4.3,70238,Absolute monarchy,"9,856,000",2.75
+112,United Kingdom,4.9,41325,Constitutional monarchy,"65,110,000",8.31
+113,Uruguay,7.7,21201,Republic,"3,480,222",8.17
+114,Uzbekistan,8.0,5573,Republic,"31,575,300",1.95
+115,Venezuela,6.7,18276,Republic,"31,028,700",5.0
+116,Vietnam,3.4,5629,Republic,"92,700,000",3.53
+117,Yemen,35.0,3785,Republic,"27,478,000",2.24
+118,Zambia,15.0,3904,Republic,"15,933,883",6.28
+119,Zimbabwe,80.0,1792,Republic,"14,240,168",3.05
+120,United States,4.9,53042,Republic,"319,000,000",8.05
+121,China,4.1,14107,communist state,"1,357,000,000",3.14
